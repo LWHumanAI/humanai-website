@@ -42,6 +42,24 @@ export default function About() {
           </div>
         </section>
 
+        <section className="py-20 bg-accent/20">
+          <div className="container max-w-4xl">
+            <h2 className="text-3xl font-bold mb-6">Nossa Missão</h2>
+            <p className="text-lg text-muted-foreground mb-8">
+              Humanizar a tecnologia para libertar profissionais de saúde,
+              permitindo que dediquem mais tempo ao que realmente importa:
+              cuidar de pessoas.
+            </p>
+            <h2 className="text-3xl font-bold mb-6">Nossa Visão</h2>
+            <p className="text-lg text-muted-foreground">
+              Ser a plataforma de inteligência artificial mais confiável e
+              humanizada para profissionais de saúde no Brasil até 2030,
+              reconhecida por transformar a prática médica através da tecnologia
+              ética e centrada no ser humano.
+            </p>
+          </div>
+        </section>
+
         <section className="py-20">
           <div className="container max-w-4xl">
             <h2 className="text-3xl font-bold mb-12 text-center">
